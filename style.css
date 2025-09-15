@@ -58,3 +58,14 @@ header {
     /* 충분히 큰 값으로 설정 */
     padding-top: 15px;
 }
+.faq-categories button {
+    margin: 5px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 20px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 20px;       /* 글자 크기를 키웁니다 */
+    font-weight: bold;   /* 글자를 굵게 만듭니다 */
+}
